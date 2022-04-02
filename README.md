@@ -38,13 +38,13 @@ ticket numbers to find families which are in the train data as well as in the te
 other therefore if one family member survived the chances are high that other members survived as well. Thus you
 get more information especially from the test data.
 
-I tried different models on the train data (Logistic Regression, Random Forest, SVC, sequential NN).
-The Random Forest Classifier showed the best results. I used GridSearchCV from sklearn to tune the model.
+I tried different models on the train data (Logistic Regression, Random Forest, Gradient Boost, SVC, ANN, etc.).
+The Gradient Boosting Classifier showed the best results. I used GridSearchCV from sklearn to tune the model.
 The accuracy score are:
 
-- test data: 81 %
-- train data: 84 %
-- competition data: 77,99%
+- test data: 82,5 %
+- train data: 84,7 %
+- competition data: 78,47%
 
 ## Acknowledgements & Licensing <a name="acknowledgements--licensing"/>
 
