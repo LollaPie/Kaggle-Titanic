@@ -29,7 +29,7 @@ competitor has a free choice of how they wrangle the data and which model they u
 
 ## File Description <a name="description"/>
 
-This repository contains only one jupyter notebook. The dataset can be downloaded from [Kaggle](https://www.kaggle.com/competitions/titanic/data) by accpeting the competition rules.
+This repository contains only one jupyter notebook. The dataset can be downloaded from [Kaggle](https://www.kaggle.com/competitions/titanic/data) by accepting the competition rules.
 
 ## Results <a name="results"/>
 
@@ -40,11 +40,13 @@ get more information especially from the test data.
 
 I tried different models on the train data (Logistic Regression, Random Forest, Gradient Boost, SVC, ANN, etc.).
 The Gradient Boosting Classifier showed the best results. I used GridSearchCV from sklearn to tune the model.
-The accuracy score are:
+The accuracy scores are:
 
 - test data: 82,5 %
 - train data: 84,7 %
 - competition data: 78,47%
+
+
 
 ## Acknowledgements & Licensing <a name="acknowledgements--licensing"/>
 
