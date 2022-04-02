@@ -46,7 +46,7 @@ The accuracy scores are:
 - train data: 84,7 %
 - competition data: 78,47%
 
-
+This score got my under the top 15% which is a decent result.
 
 ## Acknowledgements & Licensing <a name="acknowledgements--licensing"/>
 
